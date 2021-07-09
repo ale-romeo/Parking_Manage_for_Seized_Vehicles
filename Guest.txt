@@ -1,0 +1,12 @@
+Log effettuato il:	7.7.2021
+marco	aloisi	1	2	0
+Log effettuato il:	6.7.2021
+giuseppe	colombo	1	1	0
+Log effettuato il:	27.6.2021
+rick	castle	0	1	0
+Log effettuato il:	27.6.2021
+wesley	smith	0	0	0
+Log effettuato il:	27.6.2021
+domenico	gallo	0	0	0
+Log effettuato il:	5.7.2021
+alessandro	romeo	0	1	0
