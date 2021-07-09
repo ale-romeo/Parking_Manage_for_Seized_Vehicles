@@ -1053,6 +1053,7 @@ void gestione_cassa(lista lista_auto){
     break;
 
     case 4:
+      freecassa(manage);
       manage = initcassa(lista_auto);
       sleep(3);
 
